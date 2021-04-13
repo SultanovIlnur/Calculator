@@ -40,7 +40,6 @@ function clear() {
   }
   document.getElementById("textInput").value = "";
 }
-
 function clearAll() {
   num1 = 0;
   num2 = 0;
